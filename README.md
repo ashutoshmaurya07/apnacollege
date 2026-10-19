@@ -1,3 +1,3 @@
 # apnacollege
 this is my first git repository.
-author_ashutosh kumar
+author_ashutosh maurya
